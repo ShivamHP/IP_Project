@@ -9,7 +9,7 @@ import numpy as np
 
 
 #Taking in csv file:
-dfindia = pd.read_csv("Data/COVID-19 Cases(15-03-2021).csv") #dfindia contains info of all over India
+dfindia = pd.read_csv("COVID-19 Cases(15-03-2021).csv") #dfindia contains info of all over India
 
 
 #Taking data from csv file:
