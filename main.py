@@ -27,6 +27,7 @@ def plotter(date, confirmed_cases, active_cases, cured, death):
     pl.xlabel("Date")
     pl.ylabel("Number of cases")
     pl.legend("Confirmed cases")
+    pl.title("IP Project")
     pl.show()
 
 assign(dfindia)
